@@ -1,0 +1,1 @@
+"""dolarcli test suite."""
